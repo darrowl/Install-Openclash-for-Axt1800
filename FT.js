@@ -13,7 +13,7 @@
 [rewrite_local]
 
 # ～ FT中文網解鎖會員權限（2022-03-06）@ddgksf2013
-^https?:\/\/user\.ftmailbox\.cn\/ios-receipt-validation\.php.* url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/ftchinese.js
+^https?:\/\/user\.ftmailbox\.cn\/ios-receipt-validation\.php.* url script-response-body https://raw.githubusercontent.com/darrowl/Install-Openclash-for-Axt1800/main/FT.js
 
 [mitm] 
 
